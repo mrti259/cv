@@ -1,3 +1,4 @@
 @import "https://unpkg.com/open-props";
 
+@import "./normalize.css";
 @import "./printing.css";
