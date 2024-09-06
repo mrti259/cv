@@ -1,0 +1,27 @@
+.page {
+  background: white;
+  position: relative;
+  width: 21cm;
+  height: 29.68cm;
+  page-break-after: auto;
+  overflow: hidden;
+}
+
+@page {
+  size: auto;
+  margin: 0mm;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  img {
+    width: auto;
+  }
+}
+
+.no-print {
+  display: none !important;
+}

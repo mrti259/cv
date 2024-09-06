@@ -1,0 +1,29 @@
+---
+import "../assets/global.css"
+import App from "../components/app.svelte";
+import { CSS_ICONS } from "../lib/icons";
+
+const base = import.meta.env.BASE_URL;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href=`${base}/favicon.svg` />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Curriculum Vitae</title>
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    {
+      CSS_ICONS.map((iconName) => (
+        <link
+          href=`https://unpkg.com/css.gg@2.0.0/icons/css/${iconName}.css`
+          rel="stylesheet"
+        />
+      ))
+    }
+  </head>
+  <body>
+    <App client:load/>
+  </body>
+</html>
