@@ -5,16 +5,23 @@
   height: 29.68cm;
   page-break-after: auto;
   overflow: hidden;
+  margin: auto;
+  padding: 2em;
+  box-shadow: var(--shadow-3);
 }
 
 @page {
-  size: auto;
+  size: a4 portrait;
   margin: 0mm;
 }
 
 @media print {
   .no-print {
     display: none !important;
+  }
+
+  .page {
+    box-shadow: none;
   }
 
   img {
