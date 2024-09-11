@@ -22,7 +22,7 @@ const prop = (name: string) => `var(--${name})`;
 
 export const style: ResumeStyle = {
   columns: 2,
-  textColor: prop("gray-12"),
+  textColor: prop("cyan-12"),
   linkColor: prop("cyan-9"),
   primaryColor: prop("cyan-10"),
   font: {
