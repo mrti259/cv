@@ -36,13 +36,13 @@ trabajar en equipo, abrir debates y ver distintos puntos de vista.
       ],
     },
     {
-      title: "Habilidades",
+      title: "Aptitudes",
       content: [
         `
 Tecnologías:
-* Lenguajes: C#, JavaScript, TypeScript, Python, Dart
-* Backend: .NET, .NET Core
-* Frontend: HTML, CSS, jQuery, Bootstrap, React
+* Lenguajes: C#, JavaScript, TypeScript, Python
+* Backend: .NET, .NET Core, .NET Framework, Node.js
+* Frontend: HTML, CSS, jQuery, Bootstrap, React, Svelte
 * Mobile: React Native, Flutter
 * DB: SQL Server
 `,
@@ -69,20 +69,29 @@ Disponibles en: [github.com/mrti259](https://github.com/mrti259)
       title: "Experiencia",
       content: [
         `
-Mayo 2021 - Presente
+Mayo 2021 - Presente | 3 años
 ### Desarrollador Full Stack, Okapii
 
-Trabajo en diversos sistemas, aplicaciones web, API REST y aplicaciones móviles existentes o nuevos.
+Desarrollo de aplicaciones.
 
-*Stack: C#/.Net – JavaScript/TypeScript - Dart/Flutter – SQL Server*
+*Aptitudes:
+Metodologías ágiles -
+Desarrollo de aplicaciones web, mobile, desktop, API Rest -
+Tests unitarios, de integración -
+.NET Framework - .NET Core - C# -
+JavaScript - TypeScript - React Native - Flutter -
+jQuery - Bootstrap -
+SQL Server*
 `,
         `
-Noviembre 2020 - Mayo 2021
+Noviembre 2020 - Mayo 2021 | 7 meses
 ### Desarrollador Full Stack, Ejército Argentino
 
-Colaboré en sistemas informáticos de uso interno para el personal militar.
+Desarrollo de aplicaciones en equipos de tres personas.
 
-*Stack: PHP/Laravel – C#/.Net – JavaScript/Jquery/ Bootstrap - SQL Server*
+*Aptitudes:
+Desarrollo de aplicaciones web, API Rest -
+.NET - C# - PHP - Laravel - JavaScript - jQuery - Bootstrap*
 `,
       ],
     },
@@ -90,8 +99,10 @@ Colaboré en sistemas informáticos de uso interno para el personal militar.
       title: "Educación",
       content: [
         `
-Abril 2020 - Presente
+Abril 2020 - Presente | 4to. año
 ### Ingeniería en Informática, Universidad de Buenos Aires
+
+Promedio: 8.35 (19 materias aprobadas)
 `,
       ],
     },
@@ -99,12 +110,12 @@ Abril 2020 - Presente
       title: "Ayudantías",
       content: [
         `
-Agosto 2023 - Presente
+Agosto 2023 - Presente | 1 año
 ### Ayudante Ad-Honorem, Universidad de Buenos Aires
 Ingeniería de Software I
 `,
         `
-Agosto 2021 - Agosto 2023
+Agosto 2021 - Agosto 2023 | 2 años
 ### Colaborador, Universidad de Buenos Aires
 Algoritmos y Programación III
 `,
