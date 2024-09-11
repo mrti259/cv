@@ -3,3 +3,6 @@ dev: install
 
 install:
 	cd cv && yarn
+
+patch:
+	cd cv && yarn version --pacth
