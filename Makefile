@@ -4,5 +4,8 @@ dev: install
 install:
 	cd cv && yarn
 
-patch:
+format: install
+	cd cv && yarn format
+
+patch: format
 	cd cv && yarn version --pacth

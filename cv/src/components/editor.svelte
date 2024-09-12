@@ -1,7 +1,7 @@
 <script lang="ts">
-  import type { ResumeData } from "../lib/data";
+	import type { ResumeData } from '../lib/data';
 
-  export let data: ResumeData;
+	export let data: ResumeData;
 </script>
 
 <h1>Editor</h1>

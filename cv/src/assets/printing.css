@@ -1,18 +1,18 @@
 @page {
-  size: a4 portrait;
-  margin: 0mm;
+	size: a4 portrait;
+	margin: 0mm;
 }
 
 @media print {
-  .no-print {
-    display: none !important;
-  }
+	.no-print {
+		display: none !important;
+	}
 
-  img {
-    width: auto;
-  }
+	img {
+		width: auto;
+	}
 }
 
 .no-print {
-  display: none !important;
+	display: none !important;
 }

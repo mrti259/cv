@@ -1,20 +1,26 @@
 {
-  "name": "cv",
-  "type": "module",
-  "version": "1.0.2",
-  "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro check && astro build",
-    "preview": "astro preview",
-    "astro": "astro"
-  },
-  "dependencies": {
-    "@astrojs/check": "^0.9.3",
-    "@astrojs/svelte": "^5.7.0",
-    "astro": "^4.15.1",
-    "marked": "^14.1.0",
-    "svelte": "^4.2.19",
-    "typescript": "^5.5.4"
-  }
+	"name": "cv",
+	"type": "module",
+	"version": "1.0.2",
+	"scripts": {
+		"dev": "astro dev",
+		"start": "astro dev",
+		"build": "astro check && astro build",
+		"preview": "astro preview",
+		"astro": "astro",
+		"format": "prettier --write ."
+	},
+	"dependencies": {
+		"@astrojs/check": "^0.9.3",
+		"@astrojs/svelte": "^5.7.0",
+		"astro": "^4.15.1",
+		"marked": "^14.1.0",
+		"svelte": "^4.2.19",
+		"typescript": "^5.5.4"
+	},
+	"devDependencies": {
+		"prettier": "^3.3.3",
+		"prettier-plugin-astro": "^0.14.1",
+		"prettier-plugin-svelte": "^3.2.6"
+	}
 }

@@ -1,54 +1,54 @@
 .viewer {
-  width: 21cm;
-  min-height: 29.68cm;
-  padding: 2em;
-  margin: auto;
-  page-break-after: auto;
-  column-count: var(--columns);
-  font-family: var(--font-family);
-  font-size: var(--font-size);
-  color: var(--text-color);
-  text-align: justify;
+	width: 21cm;
+	min-height: 29.68cm;
+	padding: 2em;
+	margin: auto;
+	page-break-after: auto;
+	column-count: var(--columns);
+	font-family: var(--font-family);
+	font-size: var(--font-size);
+	color: var(--text-color);
+	text-align: justify;
 }
 
 a {
-  color: var(--link-color);
+	color: var(--link-color);
 }
 
 section {
-  position: relative;
-  break-inside: avoid;
-  box-shadow: var(--section-shadow);
-  border-radius: var(--section-radius);
-  margin-bottom: 2em;
-  padding: 1em;
+	position: relative;
+	break-inside: avoid;
+	box-shadow: var(--section-shadow);
+	border-radius: var(--section-radius);
+	margin-bottom: 2em;
+	padding: 1em;
 }
 
 header {
-  color: var(--primary-color);
+	color: var(--primary-color);
 }
 
 article {
-  border-top: 1px dotted var(--primary-color);
-  padding-bottom: 1em;
+	border-top: 1px dotted var(--primary-color);
+	padding-bottom: 1em;
 }
 
 .info {
-  column-span: all;
+	column-span: all;
 }
 
 .info ul {
-  padding-left: 0;
+	padding-left: 0;
 }
 
 .info ul li {
-  display: inline-block;
+	display: inline-block;
 }
 
 .info .photo {
-  width: var(--photo-size);
-  height: var(--photo-size);
-  border-radius: var(--photo-radius);
-  float: var(--photo-float);
-  margin: 2em;
+	width: var(--photo-size);
+	height: var(--photo-size);
+	border-radius: var(--photo-radius);
+	float: var(--photo-float);
+	margin: 2em;
 }
