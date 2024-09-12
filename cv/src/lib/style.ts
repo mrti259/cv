@@ -10,7 +10,6 @@ export type ResumeStyle = {
 	photo: {
 		size: string;
 		radius: string;
-		float: string;
 	};
 	section: {
 		shadow: string;
@@ -32,7 +31,6 @@ export const style: ResumeStyle = {
 	photo: {
 		size: prop('size-px-11'),
 		radius: prop('radius-blob-3'),
-		float: 'left'
 	},
 	section: {
 		shadow: prop('shadow-3'),
