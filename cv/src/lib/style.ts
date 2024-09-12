@@ -30,7 +30,7 @@ export const style: ResumeStyle = {
 	},
 	photo: {
 		size: prop('size-px-11'),
-		radius: prop('radius-blob-3'),
+		radius: prop('radius-blob-3')
 	},
 	section: {
 		shadow: prop('shadow-3'),
