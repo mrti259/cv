@@ -4,5 +4,5 @@ import svelte from '@astrojs/svelte';
 export default defineConfig({
 	site: 'https://mrti259.github.io',
 	base: 'cv',
-	integrations: [svelte()]
+	integrations: [svelte()],
 });

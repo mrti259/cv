@@ -22,7 +22,7 @@ export const data: ResumeData = {
 		location: 'San Isidro, Buenos Aires, AR',
 		email: 'borjagaribotti@gmail.com',
 		linkedin: 'borjagaribotti',
-		photo: `${base}/photo.jpg`
+		photo: `${base}/photo.jpg`,
 	},
 	sections: [
 		{
@@ -34,8 +34,8 @@ Actualmente trabajo como desarrollador de Software, mientras curso el cuarto añ
 Soy una persona responsable y organizada.
 Me gusta aprender nuevas tecnologías, incursionar en proyectos propios, trabajar en equipo y colaborar con más personas.
 
-`
-			]
+`,
+			],
 		},
 		{
 			title: 'Aptitudes',
@@ -56,8 +56,8 @@ Tecnologías:
 Idiomas:
 * Español: Nativo
 * Inglés: B2
-`
-			]
+`,
+			],
 		},
 		{
 			title: 'Proyectos',
@@ -69,8 +69,8 @@ Disponibles en: [github.com/mrti259](https://github.com/mrti259)
 * **open-api**: genera una especificación de OpenAPI en formato JSON.
 * **insoft1-api**: automatiza la creación de páginas de Notion para la corrección de entregas, y el envío de mails.
 * **gastos**: registra nuevos gastos en Notion con un bot de Telegram.
-`
-			]
+`,
+			],
 		},
 		{
 			title: 'Experiencia',
@@ -91,8 +91,8 @@ Noviembre 2020 - Mayo 2021 | 7 meses
 
 * Trabajo en un equipo de tres personas.
 * Desarrollo de aplicaciones web e integración con API Rest.
-`
-			]
+`,
+			],
 		},
 		{
 			title: 'Educación',
@@ -102,8 +102,8 @@ Abril 2020 - Presente | 4to. año
 ### Ingeniería en Informática, Universidad de Buenos Aires
 
 Promedio: 8.35 (19 materias aprobadas)
-`
-			]
+`,
+			],
 		},
 		{
 			title: 'Ayudantías',
@@ -126,7 +126,7 @@ Algoritmos y Programación III
 
 * Enseñanza de Programación Orientada a Objetos, Heurísticas de Diseño, Patrones de Diseño, Test Driven Development.
 `,
-			]
+			],
 		},
-	]
+	],
 };
