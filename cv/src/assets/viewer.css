@@ -11,6 +11,11 @@
 	text-align: justify;
 }
 
+ul {
+	padding-left: 2em;
+	list-style: square;
+}
+
 a {
 	color: var(--link-color);
 }
@@ -30,14 +35,11 @@ header {
 
 article {
 	border-top: 1px dotted var(--primary-color);
-	padding-bottom: 1em;
 }
 
 .info {
 	column-span: all;
-	text-align: center;
-	display: grid;
-	grid-template-columns: 1fr auto 1fr;
+	display: flex;
 	align-items: center;
 }
 
@@ -53,5 +55,5 @@ article {
 	width: var(--photo-size);
 	height: var(--photo-size);
 	border-radius: var(--photo-radius);
-	margin: 2em;
+	margin-inline: 2em;
 }

@@ -50,7 +50,6 @@
 				</li>
 			</ul>
 		</hgroup>
-		<aside></aside>
 	</header>
 
 	{#each data.sections as section}
