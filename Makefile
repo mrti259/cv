@@ -15,7 +15,7 @@ pop:
 	git stash pop
 
 commit-changes:
-	git commit -a -m "Auto-update" || echo ""
+	git commit -a -m "Update" || true
 
 patch: stash format commit-changes pop
 	cd cv && yarn version --patch

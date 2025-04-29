@@ -19,7 +19,7 @@ export const data: ResumeData = {
 	info: {
 		name: 'Borja Garibotti',
 		position: 'Desarrollador Full Stack',
-		location: 'San Isidro, Buenos Aires, AR',
+		location: 'Ciudad de Buenos Aires, AR',
 		email: 'borjagaribotti@gmail.com',
 		linkedin: 'borjagaribotti',
 		photo: `${base}/photo.jpg`,
@@ -29,16 +29,26 @@ export const data: ResumeData = {
 			title: 'Sobre mí',
 			content: [
 				`
-Actualmente trabajo como desarrollador de Software, mientras curso el cuarto año de Ingeniería en Informática y tengo un cargo como ayudante ad honorem.
-
-Soy una persona responsable y organizada.
-Me gusta aprender nuevas tecnologías, incursionar en proyectos propios, trabajar en equipo y colaborar con más personas.
-
+Desarrollador Full Stack con 4 años de experiencia en arquitecturas .NET, React Native y cloud (Azure). Actualmente cursando el 5to año de Ingeniería en Informática (UBA) con promedio destacado (8.33).
+				
+Apasionado por la calidad del código y las buenas prácticas (TDD, Clean Code).
 `,
 			],
 		},
 		{
-			title: 'Aptitudes',
+			title: 'Educación',
+			content: [
+				`
+### Ingeniería en Informática
+Universidad de Buenos Aires | Abril 2020 - Presente
+
+Promedio: 8.33 (22 materias aprobadas)
+`,
+			],
+		},
+
+		{
+			title: 'Habilitades Técnicas',
 			content: [
 				`
 Tecnologías:
@@ -51,11 +61,7 @@ Tecnologías:
 * Arquitecturas: MVC, Server-Client, Serverless
 * Versionado de código: Git, GitHub
 * Herramientas: Notion, Asana, Slack, Gsuite
-`,
-				`
-Idiomas:
-* Español: Nativo
-* Inglés: B2
+* Idiomas: Español (nativo), Inglés (B2 técnico)
 `,
 			],
 		},
@@ -64,11 +70,6 @@ Idiomas:
 			content: [
 				`
 Disponibles en: [github.com/mrti259](https://github.com/mrti259)
-
-* **dbotion**: gestiona las bases de datos de Notion fácilmente.
-* **open-api**: genera una especificación de OpenAPI en formato JSON.
-* **insoft1-api**: automatiza la creación de páginas de Notion para la corrección de entregas, y el envío de mails.
-* **gastos**: registra nuevos gastos en Notion con un bot de Telegram.
 `,
 			],
 		},
@@ -76,55 +77,48 @@ Disponibles en: [github.com/mrti259](https://github.com/mrti259)
 			title: 'Experiencia',
 			content: [
 				`
-Mayo 2021 - Presente | 3 años
-### Desarrollador Full Stack, Okapii
+### Líder de Proyecto
+Okapii | Enero 2025 - Presente
 
-* Trabajo en diferentes equipos de dos hasta cinco personas con metodologías ágiles.
-* Desarrollo de aplicaciones web, mobile, desktop y API Rest.
-* Implementación de tests unitarios y de integración.
-* Manejo de bases de datos SQL Server.
-* Integración con medios de pagos (entidades bancarias, Payway).
+* Lideré un equipo de 2 desarrolladores en el desarrollo completo de una aplicación móvil (React Native/TypeScript) y una API REST (.NET/C#), con arquitectura escalable en Azure y gestión de bases de datos (SQL Server).
+* Gestioné la comunicación directa con el cliente, priorizando requerimientos y garantizando entregas semanales mediante metodologías ágiles (Scrum/Kanban), lo que aseguró una alineación constante con sus necesidades.
+* Estandaricé flujos de trabajo en GitHub (branches, PRs), acelerando la entrega de features.
+* Implementé revisiones de código (PRs en GitHub), pruebas de endpoints con Postman e integración continua, reduciendo bugs críticos en producción.
 `,
 				`
-Noviembre 2020 - Mayo 2021 | 7 meses
-### Desarrollador Full Stack, Ejército Argentino
+### Desarrollador Full Stack
+Okapii | Mayo 2021 - Presente
 
-* Trabajo en un equipo de tres personas.
-* Desarrollo de aplicaciones web e integración con API Rest.
+* Desarrollo de APIs escalables con .NET Core y SQL Server, siguiendo patrones Clean Architecture.
+* Creación de aplicaciones móviles React Native/TypeScript y web (HTML/CSS/Bootstrap).
+* Colaboración en equipos ágiles (Scrum), garantizando entregas puntuales y calidad mediante PRs en Github.
 `,
-			],
-		},
-		{
-			title: 'Educación',
-			content: [
 				`
-Abril 2020 - Presente | 4to. año
-### Ingeniería en Informática, Universidad de Buenos Aires
+### Desarrollador Full Stack
+Ejército Argentino | Noviembre 2020 - Mayo 2021
 
-Promedio: 8.35 (19 materias aprobadas)
+* Desarrollo de aplicaciones web e integración con API REST.
 `,
 			],
 		},
 		{
-			title: 'Ayudantías',
+			title: 'Docencia Universitaria',
 			content: [
 				`
-Agosto 2023 - Presente | 1 año
-### Ayudante Ad Honorem, Universidad de Buenos Aires
-Ingeniería de Software I
+### Ayudante Ad Honorem
+Universidad de Buenos Aires | Agosto 2023 - Diciembre 2024
 
 * Introducción a la Ingeniería de Software y metodologías de trabajo.
 * Enseñanza de Heurísticas de Diseño, Patrones de Diseño, Test Driven Development.
-* Asistencia en consultas en clase y por Discord.
 * Corrección de ejercicios y exámenes.
 * Gestión de workspace en Notion
 `,
 				`
-Agosto 2021 - Agosto 2023 | 2 años
-### Colaborador, Universidad de Buenos Aires
-Algoritmos y Programación III
+### Colaborador
+Universidad de Buenos Aires | Agosto 2021 - Agosto 2023
 
-* Enseñanza de Programación Orientada a Objetos, Heurísticas de Diseño, Patrones de Diseño, Test Driven Development.
+* Enseñanza de Programación Orientada a Objetos.
+* Corrección de ejercicios y exámenes.
 `,
 			],
 		},
