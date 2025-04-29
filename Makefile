@@ -12,7 +12,7 @@ stash:
 	git stash
 	
 pop:
-	git stash pop
+	git stash pop || true
 
 commit-changes:
 	git commit -a -m "Update" || true
