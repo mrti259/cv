@@ -4,8 +4,6 @@
 	import { marked } from 'marked';
 	import CssIcon from './css-icon.svelte';
 	import DevIcon from './dev-icon.svelte';
-	import type { ResumeData } from '../lib/data';
-	import type { ResumeStyle } from '../lib/style';
 
 	export let data: ResumeData;
 	export let style: ResumeStyle;
@@ -47,6 +45,10 @@
 					<a href="https://linkedin.com/in/{data.info.linkedin}" target="_blank"
 						>/in/{data.info.linkedin}</a
 					>
+				</li>
+				<li>
+					<DevIcon name="github" />
+					<a href="https://githbu.com/{data.info.github}" target="_blank">{data.info.github}</a>
 				</li>
 			</ul>
 		</hgroup>

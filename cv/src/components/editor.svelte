@@ -1,6 +1,4 @@
 <script lang="ts">
-	import type { ResumeData } from '../lib/data';
-
 	export let data: ResumeData;
 </script>
 

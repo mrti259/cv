@@ -1,22 +1,3 @@
-export type ResumeStyle = {
-	columns: number;
-	textColor: string;
-	linkColor: string;
-	primaryColor: string;
-	font: {
-		family: string;
-		size: string;
-	};
-	photo: {
-		size: string;
-		radius: string;
-	};
-	section: {
-		shadow: string;
-		radius: string;
-	};
-};
-
 const prop = (name: string) => `var(--${name})`;
 
 export const style: ResumeStyle = {

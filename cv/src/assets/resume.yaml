@@ -1,0 +1,92 @@
+info:
+  name: Borja Garibotti
+  position: Desarrollador Full Stack
+  location: Ciudad de Buenos Aires, AR
+  email: borjagaribotti@gmail.com
+  linkedin: borjagaribotti
+  github: mrti259
+  photo: /cv/photo.jpg
+
+sections:
+  - title: Perfil
+    content:
+      - |
+        Desarrollador Full Stack con **4+ años de experiencia** en arquitecturas .NET, React Native y cloud (Azure).
+
+        **Líder de proyecto** con experiencia en gestión de equipos y comunicación directa con clientes. Fuerte enfoque en la calidad del código y la mejora continua de procesos.
+
+        Cursando el 5to año de **Ingeniería en Informática (UBA)** con promedio destacado (8.33).
+
+  - title: Educación
+    content:
+      - |
+        ### Ingeniería en Informática
+
+        **Universidad de Buenos Aires** | Abril 2020 - Presente
+
+        Promedio: 8.33 (22 materias aprobadas)
+
+  - title: Habilitades Técnicas
+    content:
+      - |
+        * Lenguajes: C#, JavaScript, TypeScript, Python
+        * Backend: .NET Framework, .NET Core, Node.js
+        * Frontend: HTML, CSS, jQuery, Bootstrap, React, Svelte
+        * Mobile: React Native, Expo
+        * DB: SQL Server
+        * Cloud: Azure
+        * Arquitecturas: MVC, Server-Client, Serverless
+        * Versionado de código: Git, GitHub
+        * Herramientas: Notion, Asana, Slack, Gsuite
+        * Idiomas: Español (nativo), Inglés (B2 técnico)
+
+  - title: Proyectos
+    content:
+      - |
+        ### API Ingeniería de Software 1
+
+        * API REST para gestionar el espacio de trabajo en Notion del equipo docente de la materia Ingeniería de Software 1 (UBA).
+        * Permite la creación de páginas en Notion, facilitando la gestión de correcciones y el seguimiento del progreso académico.
+        * Automatiza el envío de correcciones a los estudiantes, mejorando la eficiencia del proceso docente.
+
+        Código: [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)
+
+  - title: Experiencia
+    content:
+      - |
+        ### Líder de Proyecto
+
+        **Okapii** | Enero 2025 - Presente
+
+        * Lideré un equipo de 2 desarrolladores en el desarrollo de una aplicación móvil (React Native/TypeScript) y una API REST (.NET/C#), con arquitectura escalable en Azure y gestión de bases de datos (SQL Server).
+        * Gestioné la comunicación directa con el cliente, priorizando requerimientos y garantizando entregas semanales mediante metodologías ágiles (Scrum/Kanban), lo que aseguró una alineación constante con sus necesidades.
+        * Estandaricé flujos de trabajo en GitHub (branches, PRs), acelerando la entrega de features.
+        * Implementé revisiones de código (PRs en GitHub), pruebas de endpoints con Postman e integración continua, reduciendo bugs críticos en producción.
+
+      - |
+        ### Desarrollador Full Stack
+
+        **Okapii** | Mayo 2021 - Presente
+
+        * Desarrollo de APIs escalables con .NET Core y SQL Server.
+        * Creación de aplicaciones móviles React Native/TypeScript y web (HTML/CSS/Bootstrap).
+        * Colaboración en equipos ágiles (Scrum), garantizando entregas puntuales y calidad mediante PRs en Github.
+
+      - |
+        ### Desarrollador Full Stack
+
+        **Ejército Argentino** | Noviembre 2020 - Mayo 2021
+
+        * Desarrollo de aplicaciones web en Laravel e integración con API REST en .NET.
+
+  - title: Docencia Universitaria
+    content:
+      - |
+        ### Ayudante Ad Honorem
+
+        **Universidad de Buenos Aires** | Agosto 2021 - Diciembre 2024
+
+        * Acompañé a más de 300 estudiantes en la exploración de conceptos fundamentales de la ingeniería de software.
+        * Corregí ejercicios y exámenes, brindando retroalimentación constructiva para mejorar su comprensión.
+        * Gestioné un espacio de trabajo en Notion, facilitando la organización y el acceso a recursos para los docentes.
+        * Automaticé procesos de corrección de ejercicios y exámenes, optimizando el tiempo de entrega y mejorando la eficiencia del equipo docente.

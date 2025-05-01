@@ -2,6 +2,7 @@
 import '../assets/global.css';
 import App from '../components/app.svelte';
 import { CSS_ICONS } from '../lib/icons';
+import data from "../assets/resume.yaml"
 
 const base = import.meta.env.BASE_URL;
 ---
@@ -12,6 +13,7 @@ const base = import.meta.env.BASE_URL;
 		<link rel="icon" type="image/svg+xml" href=`${base}/favicon.svg` />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
+		<base href={base}>
 		<title>Curriculum Vitae</title>
 		<link
 			rel="stylesheet"
@@ -25,6 +27,6 @@ const base = import.meta.env.BASE_URL;
 		}
 	</head>
 	<body>
-		<App client:load />
+		<App client:load data={data}/>
 	</body>
 </html>
