@@ -41,6 +41,8 @@ article {
 	column-span: all;
 	display: flex;
 	align-items: center;
+	justify-content: center;
+	text-align: center;
 }
 
 .info ul {

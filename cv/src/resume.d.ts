@@ -5,6 +5,7 @@ type ResumeData = {
 		location: string;
 		email: string;
 		linkedin: string;
+		github: string;
 		photo?: string;
 	};
 	sections: Array<{

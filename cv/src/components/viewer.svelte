@@ -48,7 +48,7 @@
 				</li>
 				<li>
 					<DevIcon name="github" />
-					<a href="https://githbu.com/{data.info.github}" target="_blank">{data.info.github}</a>
+					<a href="https://github.com/{data.info.github}" target="_blank">{data.info.github}</a>
 				</li>
 			</ul>
 		</hgroup>

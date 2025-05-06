@@ -5,7 +5,7 @@ info:
   email: borjagaribotti@gmail.com
   linkedin: borjagaribotti
   github: mrti259
-  photo: /cv/photo.jpg
+  # photo: /cv/photo.jpg
 
 sections:
   - title: Perfil
