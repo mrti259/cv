@@ -15,16 +15,16 @@ sections:
 
         **Project leader** with experience in team management and direct communication with clients. Strong focus on code quality and continuous process improvement.
 
-        Currently in the 5th year of **Computer Engineering (UBA)** with outstanding GPA (8.33).
+        Currently in the 5th year of **Computer Engineering (UBA)** with outstanding GPA.
 
   - title: Education
     content:
       - |
-        ### Computer Engineering
+        ### University of Buenos Aires
 
-        **University of Buenos Aires** | April 2020 - Present
+        **Computer Engineering** | April 2020 - Present
 
-        GPA: 8.33 (22 approved courses)
+        GPA: 8.17 (25 approved courses)
 
   - title: Technical Skills
     content:
@@ -54,37 +54,35 @@ sections:
   - title: Experience
     content:
       - |
-        ### Project Leader
+        ### Okapii
 
-        **Okapii** | January 2025 - Present
+        **Full Stack Developer** | May 2021 - Present
 
+        * Development of scalable APIs with .NET Core and SQL Server.
+        * Creation of React Native/TypeScript mobile apps and web applications (HTML/CSS/Bootstrap).
+        * Collaboration in agile teams (Scrum), ensuring timely deliveries and quality through GitHub PRs.
+
+        **Project Lead (temporary)** | January 2025 - June 2025
+
+        * Temporary role during the development of a new product.
         * Led a team of 2 developers in building a mobile app (React Native/TypeScript) and a REST API (.NET/C#), with scalable architecture in Azure and database management (SQL Server).
         * Managed direct communication with the client, prioritizing requirements and ensuring weekly deliveries through agile methodologies (Scrum/Kanban), maintaining constant alignment with their needs.
         * Standardized GitHub workflows (branches, PRs), accelerating feature delivery.
         * Implemented code reviews (GitHub PRs), endpoint testing with Postman and continuous integration, reducing critical bugs in production.
 
       - |
-        ### Full Stack Developer
+        ### Ministry of Defense, Argentina
 
-        **Okapii** | May 2021 - Present
-
-        * Development of scalable APIs with .NET Core and SQL Server.
-        * Creation of React Native/TypeScript mobile apps and web applications (HTML/CSS/Bootstrap).
-        * Collaboration in agile teams (Scrum), ensuring timely deliveries and quality through GitHub PRs.
-
-      - |
-        ### Full Stack Developer
-
-        **Argentine Army** | November 2020 - May 2021
+        **Full Stack Developer** | November 2020 - May 2021
 
         * Development of web applications in Laravel and integration with REST APIs in .NET.
 
   - title: University Teaching
     content:
       - |
-        ### Teaching Assistant (Ad Honorem)
+        ### University of Buenos Aires
 
-        **University of Buenos Aires** | August 2021 - December 2024
+        **Teaching Assistant (Ad Honorem)** | August 2021 - December 2024
 
         * Assisted over 300 students in exploring fundamental concepts of software engineering.
         * Graded exercises and exams, providing constructive feedback to improve their understanding.

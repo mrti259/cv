@@ -15,16 +15,16 @@ sections:
 
         **Líder de proyecto** con experiencia en gestión de equipos y comunicación directa con clientes. Fuerte enfoque en la calidad del código y la mejora continua de procesos.
 
-        Cursando el 5to año de **Ingeniería en Informática (UBA)** con promedio destacado (8.33).
+        Cursando el 5to año de **Ingeniería en Informática (UBA)** con promedio destacado.
 
   - title: Educación
     content:
       - |
-        ### Ingeniería en Informática
+        ### Universidad de Buenos Aires
 
-        **Universidad de Buenos Aires** | Abril 2020 - Presente
+        **Ingeniería en Informática** | Abril 2020 - Presente
 
-        Promedio: 8.33 (22 materias aprobadas)
+        Promedio: 8.17 (25 materias aprobadas)
 
   - title: Habilitades Técnicas
     content:
@@ -54,37 +54,35 @@ sections:
   - title: Experiencia
     content:
       - |
-        ### Líder de Proyecto
+        ### Okapii
 
-        **Okapii** | Enero 2025 - Presente
+        **Desarrollador Full Stack** | Mayo 2021 - Presente
 
+        * Desarrollo de APIs escalables con .NET Core y SQL Server.
+        * Creación de aplicaciones móviles React Native/TypeScript y web (HTML/CSS/Bootstrap).
+        * Colaboración en equipos ágiles (Scrum), garantizando entregas puntuales y calidad mediante PRs en Github.
+
+        **Líder de Proyecto (rol temporal)** | Enero 2025 - Junio 2025
+
+        * Rol temporal durante el desarrollo de un nuevo producto.
         * Lideré un equipo de 2 desarrolladores en el desarrollo de una aplicación móvil (React Native/TypeScript) y una API REST (.NET/C#), con arquitectura escalable en Azure y gestión de bases de datos (SQL Server).
         * Gestioné la comunicación directa con el cliente, priorizando requerimientos y garantizando entregas semanales mediante metodologías ágiles (Scrum/Kanban), lo que aseguró una alineación constante con sus necesidades.
         * Estandaricé flujos de trabajo en GitHub (branches, PRs), acelerando la entrega de features.
         * Implementé revisiones de código (PRs en GitHub), pruebas de endpoints con Postman e integración continua, reduciendo bugs críticos en producción.
 
       - |
-        ### Desarrollador Full Stack
+        ### Ministerio de Defensa de Argentina
 
-        **Okapii** | Mayo 2021 - Presente
-
-        * Desarrollo de APIs escalables con .NET Core y SQL Server.
-        * Creación de aplicaciones móviles React Native/TypeScript y web (HTML/CSS/Bootstrap).
-        * Colaboración en equipos ágiles (Scrum), garantizando entregas puntuales y calidad mediante PRs en Github.
-
-      - |
-        ### Desarrollador Full Stack
-
-        **Ejército Argentino** | Noviembre 2020 - Mayo 2021
+        **Desarrollador Full Stack** | Noviembre 2020 - Mayo 2021
 
         * Desarrollo de aplicaciones web en Laravel e integración con API REST en .NET.
 
   - title: Docencia Universitaria
     content:
       - |
-        ### Ayudante Ad Honorem
+        ### Universidad de Buenos Aires
 
-        **Universidad de Buenos Aires** | Agosto 2021 - Diciembre 2024
+        **Ayudante Ad Honorem** | Agosto 2021 - Diciembre 2024
 
         * Acompañé a más de 300 estudiantes en la exploración de conceptos fundamentales de la ingeniería de software.
         * Corregí ejercicios y exámenes, brindando retroalimentación constructiva para mejorar su comprensión.
