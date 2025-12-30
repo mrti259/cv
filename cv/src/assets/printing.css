@@ -4,15 +4,15 @@
 }
 
 @media print {
-	.no-print {
-		display: none !important;
-	}
-
 	img {
 		width: auto;
 	}
-}
 
-.no-print {
-	display: none !important;
+	main > * {
+		display: none !important;
+	}
+
+	.print {
+		display: block !important;
+	}
 }

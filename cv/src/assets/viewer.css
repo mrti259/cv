@@ -3,7 +3,6 @@
 	min-height: 29.68cm;
 	padding: 2em;
 	margin: auto;
-	page-break-after: auto;
 	column-count: var(--columns);
 	font-family: var(--font-family);
 	font-size: var(--font-size);
