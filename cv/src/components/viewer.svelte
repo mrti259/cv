@@ -10,7 +10,7 @@
 </script>
 
 <div
-	class="print viewer"
+	class="viewer"
 	style:--columns={style.columns}
 	style:--text-color={style.textColor}
 	style:--link-color={style.linkColor}

@@ -63,7 +63,7 @@
 			{message}
 		</div>
 	</aside>
-	<div class="viewer-container" style={edit ? 'margin-right: 400px;' : ''}>
+	<div class="viewer-container print" style={edit ? 'margin-right: 400px;' : ''}>
 		<Viewer {data} {style} />
 	</div>
 </main>
