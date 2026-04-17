@@ -19,6 +19,7 @@
 	}
 
 	let edit = false;
+
 	function toggleEdit() {
 		edit = !edit;
 		showMessage(edit ? 'Edit mode enabled' : 'Edit mode disabled');
@@ -37,10 +38,10 @@
 	}
 </script>
 
-<main>
+<main class:edit-mode={edit}>
 	<aside>
 		{#if edit}
-			<Editor bind:data />
+			<Editor bind:data on:close={() => (edit = false)} />
 		{/if}
 	</aside>
 	<aside class="toolbar">
@@ -48,7 +49,7 @@
 			<button on:click={changeLanguage} title="Change language">
 				<CssIcon name="arrows-exchange" />
 			</button>
-			<button on:click={toggleEdit} title="Edit">
+			<button on:click={toggleEdit} title="Edit" data-keep-editor-open>
 				<CssIcon name="pen" />
 			</button>
 			<button on:click={exportData} title="Export">
@@ -62,5 +63,7 @@
 			{message}
 		</div>
 	</aside>
-	<Viewer {data} {style} />
+	<div class="viewer-container" style={edit ? 'margin-right: 400px;' : ''}>
+		<Viewer {data} {style} />
+	</div>
 </main>
