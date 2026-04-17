@@ -1,7 +1,7 @@
 info:
   name: Borja Garibotti
-  position: Full Stack Developer
-  location: Buenos Aires City, AR
+  position: Full Stack Developer | .NET & React Native
+  location: Buenos Aires, AR
   email: borjagaribotti@gmail.com
   linkedin: borjagaribotti
   github: mrti259
@@ -11,11 +11,11 @@ sections:
   - title: Profile
     content:
       - |
-        Full Stack Developer with **5+ years of experience** in .NET architectures, React Native and cloud (Azure).
+        Full Stack Developer with **5+ years of experience** designing and delivering web and mobile solutions using .NET, React Native, and Azure.
 
-        **Project leader** with experience in team management and direct communication with clients. Strong focus on code quality and continuous process improvement.
+        I combine technical and product thinking to turn requirements into reliable deliveries, with a strong focus on code quality, scalability, and delivery speed.
 
-        Currently in the 5th year of **Computer Engineering (UBA)** with outstanding GPA.
+        Experience leading teams, working closely with clients, and standardizing development workflows to improve productivity and reduce incidents.
 
   - title: Education
     content:
@@ -24,30 +24,29 @@ sections:
 
         **Computer Engineering** | April 2020 - Present
 
-        GPA: 7.93 (30 approved courses)
+        Academic focus on software architecture, systems design, and project management.
 
   - title: Technical Skills
     content:
       - |
         * Languages: C#, JavaScript, TypeScript, Python
-        * Backend: .NET Framework, .NET Core, Node.js
-        * Frontend: HTML, CSS, jQuery, Bootstrap, React, Svelte
+        * Backend: .NET Core, Node.js
+        * Frontend: React, Svelte, HTML, CSS, Bootstrap
         * Mobile: React Native, Expo
-        * DB: SQL Server
+        * Database: SQL Server
         * Cloud: Azure
-        * Architectures: MVC, Server-Client, Serverless
-        * Version Control: Git, GitHub
-        * Tools: Notion, Asana, Slack, Gsuite
-        * Languages: Spanish (native), English (technical B2)
+        * Methodologies: Scrum, Kanban
+        * Tools: Git, GitHub, Postman
+        * Spoken Languages: Spanish (native), English (B2)
 
   - title: Projects
     content:
       - |
         ### Software Engineering 1 API
 
-        * REST API to manage the Notion workspace for the teaching staff of Software Engineering 1 course (UBA).
-        * Enables page creation in Notion, facilitating correction management and academic progress tracking.
-        * Automates sending corrections to students, improving the teaching process efficiency.
+        * Designed and developed a REST API to manage the teaching staff workspace in Notion.
+        * Implemented automations for page creation and feedback delivery, reducing manual workload.
+        * Improved progress traceability and the overall correction workflow.
 
         Code: [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)
 
@@ -58,24 +57,24 @@ sections:
 
         **Full Stack Developer** | May 2021 - Present
 
-        * Development of scalable APIs with .NET Core and SQL Server.
-        * Creation of React Native/TypeScript mobile apps and web applications (HTML/CSS/Bootstrap).
-        * Collaboration in agile teams (Scrum), ensuring timely deliveries and quality through GitHub PRs.
+        * Built backend APIs and services with .NET Core and SQL Server.
+        * Developed mobile applications with React Native/TypeScript and web applications with React and core web technologies.
+        * Contributed to agile cycles, code reviews, and continuous improvement of engineering standards.
 
         **Project Lead (temporary)** | January 2025 - June 2025
 
-        * Temporary role during the development of a new product.
-        * Led a team of 2 developers in building a mobile app (React Native/TypeScript) and a REST API (.NET/C#), with scalable architecture in Azure and database management (SQL Server).
-        * Managed direct communication with the client, prioritizing requirements and ensuring weekly deliveries through agile methodologies (Scrum/Kanban), maintaining constant alignment with their needs.
-        * Standardized GitHub workflows (branches, PRs), accelerating feature delivery.
-        * Implemented code reviews (GitHub PRs), endpoint testing with Postman and continuous integration, reducing critical bugs in production.
+        * Led a team of 2 developers building a mobile app and a REST API.
+        * Coordinated priorities directly with the client and managed weekly deliveries under Scrum/Kanban.
+        * Standardized GitHub workflows (branches and PRs), strengthening code reviews and endpoint testing.
+        * Helped reduce critical production issues through quality and continuous integration practices.
 
       - |
         ### Ministry of Defense, Argentina
 
         **Full Stack Developer** | November 2020 - May 2021
 
-        * Development of web applications in Laravel and integration with REST APIs in .NET.
+        * Developed web applications in Laravel and integrated REST APIs in .NET.
+        * Implemented features focused on system stability and maintainability.
 
   - title: University Teaching
     content:
@@ -84,7 +83,6 @@ sections:
 
         **Teaching Assistant (Ad Honorem)** | August 2021 - December 2024
 
-        * Assisted over 300 students in exploring fundamental concepts of software engineering.
-        * Graded exercises and exams, providing constructive feedback to improve their understanding.
-        * Managed a Notion workspace, facilitating organization and access to resources for teachers.
-        * Automated exercise and exam grading processes, optimizing delivery time and improving teaching team efficiency.
+        * Supported students in learning core software engineering principles.
+        * Graded assignments and exams with clear, actionable feedback.
+        * Managed a collaborative Notion workspace and automations to optimize teaching workflows.

@@ -1,6 +1,6 @@
 info:
   name: Borja Garibotti
-  position: Desarrollador Full Stack
+  position: Desarrollador Full Stack | .NET & React Native
   location: Ciudad de Buenos Aires, AR
   email: borjagaribotti@gmail.com
   linkedin: borjagaribotti
@@ -11,11 +11,11 @@ sections:
   - title: Perfil
     content:
       - |
-        Desarrollador Full Stack con **5+ años de experiencia** en arquitecturas .NET, React Native y cloud (Azure).
+        Desarrollador Full Stack con **5+ años de experiencia** en diseño y desarrollo de soluciones web y móviles con .NET, React Native y Azure.
 
-        **Líder de proyecto** con experiencia en gestión de equipos y comunicación directa con clientes. Fuerte enfoque en la calidad del código y la mejora continua de procesos.
+        Combino visión técnica y de producto para transformar requerimientos en entregas concretas, priorizando calidad de código, escalabilidad y tiempos de entrega.
 
-        Cursando el 5to año de **Ingeniería en Informática (UBA)** con promedio destacado.
+        Experiencia liderando equipos, coordinando con clientes y estandarizando procesos de desarrollo para mejorar la productividad y reducir incidencias.
 
   - title: Educación
     content:
@@ -24,30 +24,29 @@ sections:
 
         **Ingeniería en Informática** | Abril 2020 - Presente
 
-        Promedio: 7.93 (30 materias aprobadas)
+        Formación orientada a arquitectura de software, diseño de sistemas y gestión de proyectos.
 
-  - title: Habilitades Técnicas
+  - title: Habilidades Técnicas
     content:
       - |
         * Lenguajes: C#, JavaScript, TypeScript, Python
-        * Backend: .NET Framework, .NET Core, Node.js
-        * Frontend: HTML, CSS, jQuery, Bootstrap, React, Svelte
+        * Backend: .NET Core, Node.js
+        * Frontend: React, Svelte, HTML, CSS, Bootstrap
         * Mobile: React Native, Expo
-        * DB: SQL Server
+        * Base de datos: SQL Server
         * Cloud: Azure
-        * Arquitecturas: MVC, Server-Client, Serverless
-        * Versionado de código: Git, GitHub
-        * Herramientas: Notion, Asana, Slack, Gsuite
-        * Idiomas: Español (nativo), Inglés (B2 técnico)
+        * Metodologías: Scrum, Kanban
+        * Herramientas: Git, GitHub, Postman
+        * Idiomas: Español nativo, Inglés B2
 
   - title: Proyectos
     content:
       - |
         ### API Ingeniería de Software 1
 
-        * API REST para gestionar el espacio de trabajo en Notion del equipo docente de la materia Ingeniería de Software 1 (UBA).
-        * Permite la creación de páginas en Notion, facilitando la gestión de correcciones y el seguimiento del progreso académico.
-        * Automatiza el envío de correcciones a los estudiantes, mejorando la eficiencia del proceso docente.
+        * Diseñé y desarrollé una API REST para gestionar el espacio de trabajo docente en Notion.
+        * Implementé automatizaciones para creación de páginas y envío de correcciones, reduciendo tareas manuales del equipo.
+        * Mejoré la trazabilidad del progreso académico y la organización del proceso de corrección.
 
         Código: [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)
 
@@ -58,24 +57,24 @@ sections:
 
         **Desarrollador Full Stack** | Mayo 2021 - Presente
 
-        * Desarrollo de APIs escalables con .NET Core y SQL Server.
-        * Creación de aplicaciones móviles React Native/TypeScript y web (HTML/CSS/Bootstrap).
-        * Colaboración en equipos ágiles (Scrum), garantizando entregas puntuales y calidad mediante PRs en Github.
+        * Desarrollo de APIs y servicios backend en .NET Core con SQL Server.
+        * Desarrollo de aplicaciones móviles en React Native/TypeScript y aplicaciones web con React y tecnologías base.
+        * Participación activa en ciclos ágiles, code reviews y mejora continua de estándares técnicos.
 
         **Líder de Proyecto (rol temporal)** | Enero 2025 - Junio 2025
 
-        * Rol temporal durante el desarrollo de un nuevo producto.
-        * Lideré un equipo de 2 desarrolladores en el desarrollo de una aplicación móvil (React Native/TypeScript) y una API REST (.NET/C#), con arquitectura escalable en Azure y gestión de bases de datos (SQL Server).
-        * Gestioné la comunicación directa con el cliente, priorizando requerimientos y garantizando entregas semanales mediante metodologías ágiles (Scrum/Kanban), lo que aseguró una alineación constante con sus necesidades.
-        * Estandaricé flujos de trabajo en GitHub (branches, PRs), acelerando la entrega de features.
-        * Implementé revisiones de código (PRs en GitHub), pruebas de endpoints con Postman e integración continua, reduciendo bugs críticos en producción.
+        * Lideré un equipo de 2 desarrolladores en la construcción de una app móvil y una API REST.
+        * Coordiné prioridades con el cliente y gestioné entregas semanales bajo Scrum/Kanban.
+        * Estandaricé flujos de trabajo en GitHub (branches y PRs), fortaleciendo revisiones de código y pruebas de endpoints.
+        * Contribuí a reducir errores críticos en producción mediante mejoras en calidad e integración continua.
 
       - |
         ### Ministerio de Defensa de Argentina
 
         **Desarrollador Full Stack** | Noviembre 2020 - Mayo 2021
 
-        * Desarrollo de aplicaciones web en Laravel e integración con API REST en .NET.
+        * Desarrollo de aplicaciones web en Laravel e integración con APIs REST en .NET.
+        * Implementación de funcionalidades orientadas a estabilidad y mantenimiento del sistema.
 
   - title: Docencia Universitaria
     content:
@@ -84,7 +83,6 @@ sections:
 
         **Ayudante Ad Honorem** | Agosto 2021 - Diciembre 2024
 
-        * Acompañé a más de 300 estudiantes en la exploración de conceptos fundamentales de la ingeniería de software.
-        * Corregí ejercicios y exámenes, brindando retroalimentación constructiva para mejorar su comprensión.
-        * Gestioné un espacio de trabajo en Notion, facilitando la organización y el acceso a recursos para los docentes.
-        * Automaticé procesos de corrección de ejercicios y exámenes, optimizando el tiempo de entrega y mejorando la eficiencia del equipo docente.
+        * Acompañé a estudiantes en el aprendizaje de fundamentos de ingeniería de software.
+        * Corregí ejercicios y evaluaciones con foco en retroalimentación clara y accionable.
+        * Gestioné un espacio colaborativo en Notion y automatizaciones para optimizar procesos docentes.
