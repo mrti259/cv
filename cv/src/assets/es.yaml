@@ -29,9 +29,9 @@ sections:
         * Estandaricé el flujo en GitHub (branches, PRs con revisión obligatoria y pruebas de endpoints antes de cada release), reduciendo errores críticos en producción.
 
       - |
-        ### Ministerio de Defensa de Argentina
+        ### Ministerio de Defensa de Argentina — Desarrollador Full Stack | Noviembre 2020 - Mayo 2021
 
-        **Desarrollador Full Stack** | Noviembre 2020 - Mayo 2021 — Un proyecto: aplicación web en Laravel con backend en .NET (API REST) y SQL Server.
+        * Un proyecto: aplicación web en Laravel con backend en .NET (API REST) y SQL Server.
 
   - title: Habilidades Técnicas
     content:
@@ -56,16 +56,9 @@ sections:
   - title: Docencia Universitaria
     content:
       - |
-        ### Universidad de Buenos Aires — Ingeniería de Software 1
+        ### Universidad de Buenos Aires — Ingeniería de Software 1 — Ayudante ad honorem | Agosto 2021 - Diciembre 2024
 
-        **Ayudante Ad honorem** | Agosto 2021 - Diciembre 2024
-
-        * Acompañé a estudiantes en el aprendizaje de fundamentos de ingeniería de software.
-        * Corregí ejercicios y evaluaciones con foco en retroalimentación clara y accionable.
-        * Diseñé y desarrollé una API REST en Node.js para gestionar el espacio docente en Notion, automatizando la creación de páginas y el envío de correcciones.
-        * Gestioné el espacio colaborativo docente, mejorando la trazabilidad del progreso académico y reduciendo tareas manuales del equipo.
-
-        Código: [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)
+        * Desarrollé una API REST en Node.js que automatiza el espacio docente en Notion (creación de páginas, envío de correcciones): [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)
 
   - title: Idiomas
     content:

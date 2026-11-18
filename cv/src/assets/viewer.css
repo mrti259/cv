@@ -58,3 +58,17 @@ article {
 	border-radius: var(--photo-radius);
 	margin-inline: 2em;
 }
+
+@media print {
+	.viewer {
+		width: auto;
+		min-height: auto;
+		margin: 0;
+		padding: 10mm;
+		box-sizing: border-box;
+	}
+
+	.viewer section:last-child {
+		margin-bottom: 0;
+	}
+}

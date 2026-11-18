@@ -4,6 +4,12 @@
 }
 
 @media print {
+	html,
+	body {
+		margin: 0 !important;
+		padding: 0 !important;
+	}
+
 	img {
 		width: auto;
 	}
@@ -14,6 +20,14 @@
 
 	.print {
 		display: block !important;
+		margin: 0 !important;
+		padding: 0 !important;
+	}
+
+	.print h1,
+	.print h2,
+	.print h3 {
+		break-after: avoid;
 	}
 
 	.print section,

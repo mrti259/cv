@@ -29,9 +29,9 @@ sections:
         * Standardized the GitHub flow (branches, mandatory PR reviews and manual API checks before each release), reducing critical production issues.
 
       - |
-        ### Ministry of Defense, Argentina
+        ### Ministry of Defense, Argentina — Full Stack Developer | November 2020 - May 2021
 
-        **Full Stack Developer** | November 2020 - May 2021 — One project: Laravel web app with .NET backend (REST API) and SQL Server.
+        * One project: Laravel web app with .NET backend (REST API) and SQL Server.
 
   - title: Technical Skills
     content:
@@ -56,16 +56,9 @@ sections:
   - title: University Teaching
     content:
       - |
-        ### University of Buenos Aires — Software Engineering 1
+        ### University of Buenos Aires — Software Engineering 1 — Teaching Assistant (ad honorem) | August 2021 - December 2024
 
-        **Teaching Assistant (ad honorem)** | August 2021 - December 2024
-
-        * Supported students in learning core software engineering principles.
-        * Graded assignments and exams with clear, actionable feedback.
-        * Designed and developed a REST API in Node.js to manage the teaching staff workspace in Notion, automating page creation and feedback delivery.
-        * Maintained the collaborative teaching workspace, improving progress traceability and reducing the team's manual workload.
-
-        Code: [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)
+        * Built a REST API in Node.js automating the teaching workspace in Notion (page creation, feedback delivery): [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)
 
   - title: Languages
     content:
