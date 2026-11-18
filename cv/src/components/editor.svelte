@@ -76,7 +76,22 @@
 				</div>
 				<div class="form-group">
 					<label>Photo URL:</label>
-					<input bind:value={data.info.photo} placeholder="Enter photo URL (optional)" />
+					<input
+						value={data.info.photo ?? ''}
+						on:input={(e) => (data.info.photo = e.currentTarget.value)}
+						placeholder="Enter photo URL (optional)"
+					/>
+				</div>
+				<div class="form-group checkbox-group">
+					<label>
+						<input
+							type="checkbox"
+							checked={!!data.info.photo}
+							on:change={(e) =>
+								(data.info.photo = e.currentTarget.checked ? '/cv/photo.jpg' : undefined)}
+						/>
+						Show photo
+					</label>
 				</div>
 			</div>
 		{/if}
@@ -169,6 +184,14 @@
 		font-weight: 600;
 		color: #333;
 		margin-bottom: 5px;
+	}
+
+	.checkbox-group label {
+		display: flex;
+		align-items: center;
+		gap: 8px;
+		flex-direction: row;
+		margin-bottom: 0;
 	}
 
 	.accordion-section {

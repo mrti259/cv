@@ -36,20 +36,26 @@
 					<CssIcon name="pin" />
 					{data.info.location}
 				</li>
-				<li>
-					<CssIcon name="mail" />
-					<a href="mailto:{data.info.email}" target="_blank">{data.info.email}</a>
-				</li>
-				<li>
-					<DevIcon name="linkedin" />
-					<a href="https://linkedin.com/in/{data.info.linkedin}" target="_blank"
-						>/in/{data.info.linkedin}</a
-					>
-				</li>
-				<li>
-					<DevIcon name="github" />
-					<a href="https://github.com/{data.info.github}" target="_blank">{data.info.github}</a>
-				</li>
+				{#if data.info.email}
+					<li>
+						<CssIcon name="mail" />
+						<a href="mailto:{data.info.email}" target="_blank">{data.info.email}</a>
+					</li>
+				{/if}
+				{#if data.info.linkedin}
+					<li>
+						<DevIcon name="linkedin" />
+						<a href="https://linkedin.com/in/{data.info.linkedin}" target="_blank"
+							>/in/{data.info.linkedin}</a
+						>
+					</li>
+				{/if}
+				{#if data.info.github}
+					<li>
+						<DevIcon name="github" />
+						<a href="https://github.com/{data.info.github}" target="_blank">{data.info.github}</a>
+					</li>
+				{/if}
 			</ul>
 		</hgroup>
 	</header>

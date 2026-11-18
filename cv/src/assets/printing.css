@@ -15,4 +15,14 @@
 	.print {
 		display: block !important;
 	}
+
+	.print section,
+	.print article {
+		break-inside: avoid;
+	}
+
+	.print * {
+		print-color-adjust: exact;
+		-webkit-print-color-adjust: exact;
+	}
 }

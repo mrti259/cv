@@ -1,88 +1,73 @@
 info:
   name: Borja Garibotti
   position: Full Stack Developer | .NET & React Native
-  location: Buenos Aires, AR
+  location: Buenos Aires, Argentina
   email: borjagaribotti@gmail.com
   linkedin: borjagaribotti
   github: mrti259
-  # photo: /cv/photo.jpg
 
 sections:
   - title: Profile
     content:
       - |
-        Full Stack Developer with **5+ years of experience** designing and delivering web and mobile solutions using .NET, React Native, and Azure.
+        Full Stack Developer with **6 years of experience** building web and mobile solutions with .NET (ASP.NET Core) and React Native (Expo).
 
-        I combine technical and product thinking to turn requirements into reliable deliveries, with a strong focus on code quality, scalability, and delivery speed.
+        At Okapii I built 10+ backend projects and 7 mobile apps published on the Play Store (50K+ and 100K+ downloads). I led client-facing deliveries under Scrum/Kanban and served as a teaching assistant in Software Engineering 1 (UBA).
 
-        Experience leading teams, working closely with clients, and standardizing development workflows to improve productivity and reduce incidents.
+  - title: Experience
+    content:
+      - |
+        ### Okapii — Full Stack Developer | May 2021 - Present
+
+        * Built 10+ full stack projects with REST APIs in ASP.NET Core / .NET Framework, NHibernate and SQL Server, with React frontends.
+        * Developed 7 mobile applications in React Native/TypeScript (Expo) and Flutter, published on the Play Store, including [AdminProp Vecinos](https://play.google.com/store/apps/details?id=com.adminpropapp) (50K+ downloads) and [Xhendra COMmunity](https://play.google.com/store/apps/details?id=ar.xhendra.sesiapp) (100K+ downloads).
+        * Mentored team developers in React Native and .NET best practices.
+
+        **Assignment as Project Lead | January 2025 - June 2025**
+
+        * Led a team of 2 developers building a mobile app and a REST API, coordinating priorities with the client and delivering on the weekly release plan under Scrum/Kanban.
+        * Standardized the GitHub flow (branches, mandatory PR reviews and manual API checks before each release), reducing critical production issues.
+
+      - |
+        ### Ministry of Defense, Argentina
+
+        **Full Stack Developer** | November 2020 - May 2021 — One project: Laravel web app with .NET backend (REST API) and SQL Server.
+
+  - title: Technical Skills
+    content:
+      - |
+        * Core languages: C#, TypeScript, JavaScript
+        * Backend: ASP.NET Core, .NET Framework, NHibernate, REST APIs, Node.js, Laravel
+        * Frontend / Mobile: React, React Native (Expo), Flutter
+        * Data & practices: SQL Server, Git, GitHub (branches, PR reviews), Scrum, Kanban
+        * Familiar (academic scope): Java, Python, Go, Svelte
+
+  - title: Languages
+    content:
+      - |
+        Spanish (native), English B2 (upper-intermediate, professional).
 
   - title: Education
     content:
       - |
         ### University of Buenos Aires
 
-        **Computer Engineering** | April 2020 - Present
+        **Computer Engineering** | April 2020 - Present (≈98% completed)
 
-        Academic focus on software architecture, systems design, and project management.
+        TPP (Professional Practical Work): Billing system for C&S Informática, built with Java and React. GPA: 8/10.
 
-  - title: Technical Skills
-    content:
-      - |
-        * Languages: C#, JavaScript, TypeScript, Python
-        * Backend: .NET Core, Node.js
-        * Frontend: React, Svelte, HTML, CSS, Bootstrap
-        * Mobile: React Native, Expo
-        * Database: SQL Server
-        * Cloud: Azure
-        * Methodologies: Scrum, Kanban
-        * Tools: Git, GitHub, Postman
-        * Spoken Languages: Spanish (native), English (B2)
-
-  - title: Projects
-    content:
-      - |
-        ### Software Engineering 1 API
-
-        * Designed and developed a REST API to manage the teaching staff workspace in Notion.
-        * Implemented automations for page creation and feedback delivery, reducing manual workload.
-        * Improved progress traceability and the overall correction workflow.
-
-        Code: [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)
-
-  - title: Experience
-    content:
-      - |
-        ### Okapii
-
-        **Full Stack Developer** | May 2021 - Present
-
-        * Built backend APIs and services with .NET Core and SQL Server.
-        * Developed mobile applications with React Native/TypeScript and web applications with React and core web technologies.
-        * Contributed to agile cycles, code reviews, and continuous improvement of engineering standards.
-
-        **Project Lead (temporary)** | January 2025 - June 2025
-
-        * Led a team of 2 developers building a mobile app and a REST API.
-        * Coordinated priorities directly with the client and managed weekly deliveries under Scrum/Kanban.
-        * Standardized GitHub workflows (branches and PRs), strengthening code reviews and endpoint testing.
-        * Helped reduce critical production issues through quality and continuous integration practices.
-
-      - |
-        ### Ministry of Defense, Argentina
-
-        **Full Stack Developer** | November 2020 - May 2021
-
-        * Developed web applications in Laravel and integrated REST APIs in .NET.
-        * Implemented features focused on system stability and maintainability.
+        Projects: [VaquitApp](https://github.com/VaquitApp), a Splitwise clone in Python and Svelte; Disociar, a Discord clone in Python, Go, and React (repository not yet public).
 
   - title: University Teaching
     content:
       - |
-        ### University of Buenos Aires
+        ### University of Buenos Aires — Software Engineering 1
 
-        **Teaching Assistant (Ad Honorem)** | August 2021 - December 2024
+        **Teaching Assistant (ad honorem)** | August 2021 - December 2024
 
         * Supported students in learning core software engineering principles.
         * Graded assignments and exams with clear, actionable feedback.
-        * Managed a collaborative Notion workspace and automations to optimize teaching workflows.
+        * Designed and developed a REST API in Node.js to manage the teaching staff workspace in Notion, automating page creation and feedback delivery.
+        * Maintained the collaborative teaching workspace, improving progress traceability and reducing the team's manual workload.
+
+        Code: [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)

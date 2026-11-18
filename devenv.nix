@@ -17,5 +17,6 @@
     build.exec = "pnpm --dir $DEVENV_ROOT/cv build";
     preview.exec = "pnpm --dir $DEVENV_ROOT/cv preview";
     format.exec = "pnpm --dir $DEVENV_ROOT/cv format";
+    check.exec = "pnpm --dir $DEVENV_ROOT/cv exec astro check && pnpm --dir $DEVENV_ROOT/cv run check:i18n";
   };
 }

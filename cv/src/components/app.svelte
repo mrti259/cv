@@ -46,16 +46,16 @@
 	</aside>
 	<aside class="toolbar">
 		<div class="buttons">
-			<button on:click={changeLanguage} title="Change language">
+			<button on:click={changeLanguage} title="Change language" aria-label="Change language">
 				<CssIcon name="arrows-exchange" />
 			</button>
-			<button on:click={toggleEdit} title="Edit" data-keep-editor-open>
+			<button on:click={toggleEdit} title="Edit" aria-label="Toggle editor" data-keep-editor-open>
 				<CssIcon name="pen" />
 			</button>
-			<button on:click={exportData} title="Export">
+			<button on:click={exportData} title="Export" aria-label="Export resume as JSON">
 				<CssIcon name="copy" />
 			</button>
-			<button on:click={print} title="Print">
+			<button on:click={print} title="Print" aria-label="Print resume">
 				<CssIcon name="printer" />
 			</button>
 		</div>

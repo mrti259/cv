@@ -9,6 +9,7 @@
 		"build": "astro check && astro build",
 		"preview": "astro preview",
 		"astro": "astro",
+		"check:i18n": "node ./check-i18n.mjs",
 		"format": "prettier --write ."
 	},
 	"dependencies": {
@@ -22,8 +23,10 @@
 	"devDependencies": {
 		"@rollup/plugin-yaml": "^4.1.2",
 		"@types/node": "^22.15.3",
+		"devicon": "^2.18.0",
 		"prettier": "^3.3.3",
 		"prettier-plugin-astro": "^0.14.1",
-		"prettier-plugin-svelte": "^3.2.6"
+		"prettier-plugin-svelte": "^3.2.6",
+		"yaml": "^2.9.1"
 	}
 }

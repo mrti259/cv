@@ -1,88 +1,73 @@
 info:
   name: Borja Garibotti
   position: Desarrollador Full Stack | .NET & React Native
-  location: Ciudad de Buenos Aires, AR
+  location: Buenos Aires, Argentina
   email: borjagaribotti@gmail.com
   linkedin: borjagaribotti
   github: mrti259
-  # photo: /cv/photo.jpg
 
 sections:
   - title: Perfil
     content:
       - |
-        Desarrollador Full Stack con **5+ años de experiencia** en diseño y desarrollo de soluciones web y móviles con .NET, React Native y Azure.
+        Desarrollador Full Stack con **6 años de experiencia** en soluciones web y móviles con .NET (ASP.NET Core) y React Native (Expo).
 
-        Combino visión técnica y de producto para transformar requerimientos en entregas concretas, priorizando calidad de código, escalabilidad y tiempos de entrega.
+        En Okapii construí 10+ proyectos de backend y 7 aplicaciones móviles publicadas en Play Store (50K+ y 100K+ descargas). Lideré entregas con clientes bajo Scrum/Kanban y soy ayudante en Ingeniería de Software 1 (UBA).
 
-        Experiencia liderando equipos, coordinando con clientes y estandarizando procesos de desarrollo para mejorar la productividad y reducir incidencias.
+  - title: Experiencia
+    content:
+      - |
+        ### Okapii — Desarrollador Full Stack | Mayo 2021 - Presente
+
+        * Construí 10+ proyectos full stack con APIs REST en ASP.NET Core / .NET Framework, NHibernate y SQL Server, con frontends en React.
+        * Desarrollé 7 aplicaciones móviles en React Native/TypeScript (Expo) y Flutter, publicadas en Play Store, incluyendo [AdminProp Vecinos](https://play.google.com/store/apps/details?id=com.adminpropapp) (50K+ descargas) y [Xhendra COMmunity](https://play.google.com/store/apps/details?id=ar.xhendra.sesiapp) (100K+ descargas).
+        * Mentoreé a desarrolladores del equipo en buenas prácticas de React Native y .NET.
+
+        **Asignación como Líder de Proyecto | Enero 2025 - Junio 2025**
+
+        * Lideré un equipo de 2 desarrolladores en la construcción de una app móvil y una API REST, coordinando prioridades con el cliente y cumpliendo el plan de entregas semanales bajo Scrum/Kanban.
+        * Estandaricé el flujo en GitHub (branches, PRs con revisión obligatoria y pruebas de endpoints antes de cada release), reduciendo errores críticos en producción.
+
+      - |
+        ### Ministerio de Defensa de Argentina
+
+        **Desarrollador Full Stack** | Noviembre 2020 - Mayo 2021 — Un proyecto: aplicación web en Laravel con backend en .NET (API REST) y SQL Server.
+
+  - title: Habilidades Técnicas
+    content:
+      - |
+        * Lenguajes principales: C#, TypeScript, JavaScript
+        * Backend: ASP.NET Core, .NET Framework, NHibernate, REST APIs, Node.js, Laravel
+        * Frontend / Mobile: React, React Native (Expo), Flutter
+        * Datos y prácticas: SQL Server, Git, GitHub (branches, PR reviews), Scrum, Kanban
+        * Familiar (ámbito académico): Java, Python, Go, Svelte
+
+  - title: Idiomas
+    content:
+      - |
+        Español nativo, inglés B2 (intermedio-alto profesional).
 
   - title: Educación
     content:
       - |
         ### Universidad de Buenos Aires
 
-        **Ingeniería en Informática** | Abril 2020 - Presente
+        **Ingeniería en Informática** | Abril 2020 - Presente (≈98% de la carrera completada)
 
-        Formación orientada a arquitectura de software, diseño de sistemas y gestión de proyectos.
+        TPP (Trabajo Práctico Profesional): Sistema de facturación para C&S Informática, desarrollado en Java y React. Promedio: 8/10.
 
-  - title: Habilidades Técnicas
-    content:
-      - |
-        * Lenguajes: C#, JavaScript, TypeScript, Python
-        * Backend: .NET Core, Node.js
-        * Frontend: React, Svelte, HTML, CSS, Bootstrap
-        * Mobile: React Native, Expo
-        * Base de datos: SQL Server
-        * Cloud: Azure
-        * Metodologías: Scrum, Kanban
-        * Herramientas: Git, GitHub, Postman
-        * Idiomas: Español nativo, Inglés B2
-
-  - title: Proyectos
-    content:
-      - |
-        ### API Ingeniería de Software 1
-
-        * Diseñé y desarrollé una API REST para gestionar el espacio de trabajo docente en Notion.
-        * Implementé automatizaciones para creación de páginas y envío de correcciones, reduciendo tareas manuales del equipo.
-        * Mejoré la trazabilidad del progreso académico y la organización del proceso de corrección.
-
-        Código: [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)
-
-  - title: Experiencia
-    content:
-      - |
-        ### Okapii
-
-        **Desarrollador Full Stack** | Mayo 2021 - Presente
-
-        * Desarrollo de APIs y servicios backend en .NET Core con SQL Server.
-        * Desarrollo de aplicaciones móviles en React Native/TypeScript y aplicaciones web con React y tecnologías base.
-        * Participación activa en ciclos ágiles, code reviews y mejora continua de estándares técnicos.
-
-        **Líder de Proyecto (rol temporal)** | Enero 2025 - Junio 2025
-
-        * Lideré un equipo de 2 desarrolladores en la construcción de una app móvil y una API REST.
-        * Coordiné prioridades con el cliente y gestioné entregas semanales bajo Scrum/Kanban.
-        * Estandaricé flujos de trabajo en GitHub (branches y PRs), fortaleciendo revisiones de código y pruebas de endpoints.
-        * Contribuí a reducir errores críticos en producción mediante mejoras en calidad e integración continua.
-
-      - |
-        ### Ministerio de Defensa de Argentina
-
-        **Desarrollador Full Stack** | Noviembre 2020 - Mayo 2021
-
-        * Desarrollo de aplicaciones web en Laravel e integración con APIs REST en .NET.
-        * Implementación de funcionalidades orientadas a estabilidad y mantenimiento del sistema.
+        Proyectos: [VaquitApp](https://github.com/VaquitApp), clon de Splitwise en Python y Svelte; Disociar, clon de Discord en Python, Go y React (repositorio aún no público).
 
   - title: Docencia Universitaria
     content:
       - |
-        ### Universidad de Buenos Aires
+        ### Universidad de Buenos Aires — Ingeniería de Software 1
 
-        **Ayudante Ad Honorem** | Agosto 2021 - Diciembre 2024
+        **Ayudante Ad honorem** | Agosto 2021 - Diciembre 2024
 
         * Acompañé a estudiantes en el aprendizaje de fundamentos de ingeniería de software.
         * Corregí ejercicios y evaluaciones con foco en retroalimentación clara y accionable.
-        * Gestioné un espacio colaborativo en Notion y automatizaciones para optimizar procesos docentes.
+        * Diseñé y desarrollé una API REST en Node.js para gestionar el espacio docente en Notion, automatizando la creación de páginas y el envío de correcciones.
+        * Gestioné el espacio colaborativo docente, mejorando la trazabilidad del progreso académico y reduciendo tareas manuales del equipo.
+
+        Código: [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)
