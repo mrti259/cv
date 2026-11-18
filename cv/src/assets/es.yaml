@@ -42,11 +42,6 @@ sections:
         * Datos y prácticas: SQL Server, Git, GitHub (branches, PR reviews), Scrum, Kanban
         * Familiar (ámbito académico): Java, Python, Go, Svelte
 
-  - title: Idiomas
-    content:
-      - |
-        Español nativo, inglés B2 (intermedio-alto profesional).
-
   - title: Educación
     content:
       - |
@@ -71,3 +66,8 @@ sections:
         * Gestioné el espacio colaborativo docente, mejorando la trazabilidad del progreso académico y reduciendo tareas manuales del equipo.
 
         Código: [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)
+
+  - title: Idiomas
+    content:
+      - |
+        Español nativo, inglés B2 (intermedio-alto profesional).

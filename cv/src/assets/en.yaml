@@ -42,11 +42,6 @@ sections:
         * Data & practices: SQL Server, Git, GitHub (branches, PR reviews), Scrum, Kanban
         * Familiar (academic scope): Java, Python, Go, Svelte
 
-  - title: Languages
-    content:
-      - |
-        Spanish (native), English B2 (upper-intermediate, professional).
-
   - title: Education
     content:
       - |
@@ -71,3 +66,8 @@ sections:
         * Maintained the collaborative teaching workspace, improving progress traceability and reducing the team's manual workload.
 
         Code: [github.com/Ingenieria-de-software-I/ingsoft1-api](https://github.com/Ingenieria-de-software-I/ingsoft1-api)
+
+  - title: Languages
+    content:
+      - |
+        Spanish (native), English B2 (upper-intermediate, professional).
